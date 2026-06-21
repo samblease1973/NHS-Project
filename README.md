@@ -1,0 +1,1 @@
+Project concerning the utilisation of services and capacity within the NHS using data provided in CSV and Excel format. The brief was to investigate, break down and answer business questions using Python to provide a descriptive and diagnostic analysis, insights and recommendations.
